@@ -6,3 +6,5 @@ added deletion of directory
 
 added script to move to previous directory
 
+
+addded script for ls all files in /boot current and parent directory
