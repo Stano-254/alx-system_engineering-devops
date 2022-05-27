@@ -10,3 +10,5 @@ added script to list all files in currect directory including hidden files
 
 added script for listing currect directory files in long format displaying user group ID  numerically
 
+added a script to create a directory named "my_first_directory" in /tmp/ directory
+
