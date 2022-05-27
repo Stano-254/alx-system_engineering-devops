@@ -4,3 +4,5 @@ added script to list file contents of current directory
 
 added script to change currect directory to home directory
 
+added script to list contents of current directory in long format
+
