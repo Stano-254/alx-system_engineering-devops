@@ -8,3 +8,5 @@ added script to list contents of current directory in long format
 
 added script to list all files in currect directory including hidden files
 
+added script for listing currect directory files in long format displaying user group ID  numerically
+
