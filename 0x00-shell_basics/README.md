@@ -6,3 +6,5 @@ added script to change currect directory to home directory
 
 added script to list contents of current directory in long format
 
+added script to list all files in currect directory including hidden files
+
