@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R -d 555 .
+sudo chmod -R -d 755 .
