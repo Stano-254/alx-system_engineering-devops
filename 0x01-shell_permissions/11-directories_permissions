@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo  find  .  -type d -exec chmod -R 754 {} \;
+sudo chmod -R 754  .
